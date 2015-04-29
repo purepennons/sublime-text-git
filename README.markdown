@@ -6,6 +6,13 @@ Git integration: it's pretty handy. Who knew, right?
 
 For more information about what's supported, and how to install this, [check the wiki](https://github.com/kemayo/sublime-text-2-git/wiki).
 
+## Git Commit Message with Syntax support
+
+Integrates two plugins into one!
+
+![Git Commit Message with Syntax support](https://cloud.githubusercontent.com/assets/922234/7244869/8fb0d48a-e814-11e4-9019-b18b4ab008e6.png)
+
+
 ## Install
 
 ### Package Control
